@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "20.x"
+    "node": ".x"
   },
   "scripts": {
     "dev": "nodemon index.js",
@@ -16,7 +16,6 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "expresss": "^0.0.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.3.3",
     "multer": "^1.4.5-lts.1",
